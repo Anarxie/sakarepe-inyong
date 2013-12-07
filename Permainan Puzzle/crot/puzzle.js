@@ -117,9 +117,8 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
-    B.src = "1.jpg", "2jpg"
+    B.src = "1.jpg"
 })(this, this.document);
 (function (C, n, x) {
     function y(a, c, b, d, f, e, g, h, k) {
@@ -239,7 +238,8 @@
         p.addEventListener("mousemove", E, !1);
         w = n.createElement("p");
         p.parentNode.appendChild(w);
-        w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
+        w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan";
+	waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "2.jpg"
 })(this, this.document);
@@ -361,7 +361,8 @@
         p.addEventListener("mousemove", E, !1);
         w = n.createElement("p");
         p.parentNode.appendChild(w);
-        w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
+        w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan";
+	waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "3.jpg"
 })(this, this.document);
