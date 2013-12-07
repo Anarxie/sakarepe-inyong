@@ -119,7 +119,7 @@
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
 		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
-    B.src = "1.jpg"
+    B.src = "1.jpg", "2jpg"
 })(this, this.document);
 (function (C, n, x) {
     function y(a, c, b, d, f, e, g, h, k) {
@@ -240,7 +240,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "2.jpg"
 })(this, this.document);
@@ -363,7 +362,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "3.jpg"
 })(this, this.document);
@@ -486,7 +484,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "4.jpg"
 })(this, this.document);
@@ -609,7 +606,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "5.jpg"
 })(this, this.document);
@@ -732,7 +728,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "6.jpg"
 })(this, this.document);
@@ -855,7 +850,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "7.jpg"
 })(this, this.document);
@@ -978,7 +972,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "8.jpg"
 })(this, this.document);
@@ -1101,7 +1094,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "9.jpg"
 })(this, this.document);
@@ -1224,7 +1216,6 @@
         w = n.createElement("p");
         p.parentNode.appendChild(w);
         w.innerHTML = (100 / (h * l) * A() >> 0) + "% Terselesaikan"
-		waktu=setInterval(WaktuMundur,1E3);WaktuMundur()
     };
     B.src = "10.jpg"
 })(this, this.document);
